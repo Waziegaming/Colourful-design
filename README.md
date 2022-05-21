@@ -1,9 +1,10 @@
 # Colourful-design
-Easy colour and beautinful design in phyton for beginners.
 
-You can use a website or a app
+Easy colourful and beautiful design in phyton for beginners
 
 i used an app called pydroid 3 if your a beginner you can use it.
+
+
 
 # Available in android and ios
 
